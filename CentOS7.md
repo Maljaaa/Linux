@@ -34,6 +34,9 @@ https://goddaehee.tistory.com/73
 https://ckbcorp.tistory.com/1202  
 \+ chroot_local_user=YES 활성화
 
+### vsftpd "Failed to start Vsftpd ftp daemon" 에러
+https://ckbcorp.tistory.com/1202
+
 ### proftpd(ftp)
 시작 :	/usr/local/proftpd/sbin/proftpd  
 종료 :	ps -ef | grep proftpd  

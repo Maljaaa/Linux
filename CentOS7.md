@@ -44,6 +44,9 @@ https://ckbcorp.tistory.com/1202
 ftp user 확인  
 ps aux | grep vsftpd  
 
+### crond.service(backup)
+https://ansan-survivor.tistory.com/430
+
 ### ssh
 systemctl restart sshd.service  
 https://itdev4u.tistory.com/entry/CentOS-SSH-%EC%84%A4%EC%B9%98  

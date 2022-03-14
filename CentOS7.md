@@ -49,6 +49,9 @@ ssh [계정]@[ip]
 ### ssh 포트 변경 후 에러
 https://zzokma.tistory.com/1517
 
+### ssh Hot key 에러
+https://m.blog.naver.com/midovan1/220250544307
+
 ### postgreSQL & DBeaver
 systemctl start postgresql  
 https://gsk121.tistory.com/392  

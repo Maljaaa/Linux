@@ -52,6 +52,9 @@ https://zzokma.tistory.com/1517
 ### ssh Hot key 에러
 https://m.blog.naver.com/midovan1/220250544307
 
+### ssh 접속 메시지
+https://www.withover.com/2012/06/ssh.html
+
 ### postgreSQL & DBeaver
 systemctl start postgresql  
 https://gsk121.tistory.com/392  

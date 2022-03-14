@@ -46,6 +46,9 @@ systemctl restart sshd.service
 https://itdev4u.tistory.com/entry/CentOS-SSH-%EC%84%A4%EC%B9%98  
 ssh [계정]@[ip]
 
+### ssh 포트 변경 후 에러
+https://zzokma.tistory.com/1517
+
 ### postgreSQL & DBeaver
 systemctl start postgresql  
 https://gsk121.tistory.com/392  

@@ -64,6 +64,9 @@ https://m.blog.naver.com/midovan1/220250544307
 ### ssh 접속 메시지
 https://www.withover.com/2012/06/ssh.html
 
+###  C언어 컴파일
+https://corock.tistory.com/240
+
 ### nginx 서버 구축
 https://hgko1207.github.io/2020/11/16/linux-9/
 

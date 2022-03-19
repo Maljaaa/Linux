@@ -68,7 +68,7 @@ https://www.withover.com/2012/06/ssh.html
 https://corock.tistory.com/240
 
 ### nginx 서버 구축
-https://hgko1207.github.io/2020/11/16/linux-9/
+https://sepiros.tistory.com/25
 
 ### postgreSQL & DBeaver
 systemctl start postgresql  

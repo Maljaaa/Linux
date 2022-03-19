@@ -64,6 +64,9 @@ https://m.blog.naver.com/midovan1/220250544307
 ### ssh 접속 메시지
 https://www.withover.com/2012/06/ssh.html
 
+### nginx 서버 구축
+https://hgko1207.github.io/2020/11/16/linux-9/
+
 ### postgreSQL & DBeaver
 systemctl start postgresql  
 https://gsk121.tistory.com/392  

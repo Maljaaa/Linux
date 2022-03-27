@@ -127,6 +127,9 @@ unrealircd 설치된 경로로 이동
 ### 채팅클라이언트
 yum -y install irssi  
 
+### 채팅&음성 서버(teamspeak3)
+https://tuxinit.com/how-to-install-teamspeak-server-on-centos-7-8/
+
 ### 방화벽 firewalld
 http://help.nanuminet.com/bbs/board.php?bo_table=manual&wr_id=281  
 https://m.blog.naver.com/tequini/220981170535

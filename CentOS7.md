@@ -51,6 +51,8 @@ https://ckbcorp.tistory.com/1202
  &nbsp; kill -9 UID  
 ftp user 확인  
 ps aux | grep vsftpd  
+vsftpd 깔려있으면 삭제해야함
+https://blog.naver.com/PostView.nhn?blogId=anysecure3&logNo=221583997926
 
 ### crond.service(backup)
 https://ansan-survivor.tistory.com/430

@@ -33,6 +33,7 @@ https://tother.tistory.com/151
 ### VNC
 systemctl start vncserver@:1.service  
 https://blog.naver.com/haengro/220346527168
+
 https://lemontia.tistory.com/734
 
 ### vsftpd(ftp)

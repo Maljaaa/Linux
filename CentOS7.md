@@ -27,6 +27,9 @@ chmod -R
 ### 관리자 계정 root권한 주기
 https://itgameworld.tistory.com/75
 
+### Default 시작이 root
+https://tother.tistory.com/151
+
 ### VNC
 systemctl start vncserver@:1.service  
 https://blog.naver.com/haengro/220346527168

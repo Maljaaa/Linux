@@ -172,6 +172,10 @@ https://it-serial.tistory.com/14?category=958591
 
 ### sendmail
 https://m.blog.naver.com/PostView.naver?blogId=picablue6252&logNo=221502528457&proxyReferer=https:%2F%2Fwww.google.com%2F
+=> 메일 테스트는 # mail 이메일
+
+### WARNING: Group writable directory / 에러 해결
+https://www.linuxquestions.org/questions/linux-server-73/sendmail-bi-problem-group-writable-712801/
 
 ### rsync mirror
 https://blog.daum.net/boo-t/11397665  

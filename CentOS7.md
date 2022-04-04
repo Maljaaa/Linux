@@ -74,6 +74,12 @@ https://www.withover.com/2012/06/ssh.html
 ###  C언어 컴파일
 https://corock.tistory.com/240
 
+### NFS 서버 구축
+https://ansan-survivor.tistory.com/687
+
+### exportfs: /etc/exports:1: syntax error: bad option list 에러 
+https://ubuntuforums.org/showthread.php?t=1663927
+
 ### nginx 서버 구축
 https://sepiros.tistory.com/25
 

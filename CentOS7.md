@@ -166,6 +166,9 @@ https://m.blog.naver.com/PostView.naver?blogId=hdlee91&logNo=150063056693&proxyR
 ### 로그서버
 https://www.manualfactory.net/12970  
 
+### 무료 도메인
+https://hoing.io/archives/2279
+
 ### DNS bind
 https://it-serial.tistory.com/13  
 https://it-serial.tistory.com/14?category=958591

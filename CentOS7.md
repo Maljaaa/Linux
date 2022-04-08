@@ -177,6 +177,9 @@ https://it-serial.tistory.com/14?category=958591
 https://m.blog.naver.com/PostView.naver?blogId=picablue6252&logNo=221502528457&proxyReferer=https:%2F%2Fwww.google.com%2F
 => 메일 테스트는 # mail 이메일
 
+### encoding
+https://kkeuing.tistory.com/18
+
 ### WARNING: Group writable directory / 에러 해결
 https://www.linuxquestions.org/questions/linux-server-73/sendmail-bi-problem-group-writable-712801/
 

@@ -188,3 +188,6 @@ https://blog.daum.net/boo-t/11397665
 https://lifegoesonme.tistory.com/373  
 https://nota.tistory.com/77  
 https://banitos.tistory.com/1
+
+### 커널 업그레이드
+https://nirsa.tistory.com/64

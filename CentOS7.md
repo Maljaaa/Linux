@@ -194,3 +194,6 @@ https://nirsa.tistory.com/64
 
 ### LNAV 로그파일 분석
 https://ko.linux-console.net/?p=2115
+
+### DB 생성
+https://brandon-dev.tistory.com/24

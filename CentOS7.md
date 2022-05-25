@@ -200,3 +200,6 @@ https://brandon-dev.tistory.com/24
 
 ### MariaDB Error-Log 쌓기
 https://bamdule.tistory.com/71
+
+### 로그관리
+https://power-girl0-0.tistory.com/164

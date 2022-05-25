@@ -197,3 +197,6 @@ https://ko.linux-console.net/?p=2115
 
 ### DB 생성
 https://brandon-dev.tistory.com/24
+
+### MariaDB Error-Log 쌓기
+https://bamdule.tistory.com/71

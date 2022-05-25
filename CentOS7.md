@@ -191,3 +191,6 @@ https://banitos.tistory.com/1
 
 ### 커널 업그레이드
 https://nirsa.tistory.com/64
+
+### LNAV 로그파일 분석
+https://ko.linux-console.net/?p=2115

@@ -163,6 +163,9 @@ systemctl enable smb	systemctl start smb
 ### SAMBA selinux
 https://m.blog.naver.com/PostView.naver?blogId=hdlee91&logNo=150063056693&proxyReferer=https:%2F%2Fwww.google.com%2F
 
+### SAMBA CentOS7
+https://jjeongil.tistory.com/1519
+
 ### 로그서버
 https://www.manualfactory.net/12970  
 

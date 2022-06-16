@@ -116,6 +116,9 @@ https://bamdule.tistory.com/59
 ### MySQL utf-8
 https://zetawiki.com/wiki/MySQL_%EC%BA%90%EB%A6%AD%ED%84%B0%EC%85%8B_utf8_%EC%84%A4%EC%A0%95
 
+### mariadb dbeaver utf-8
+https://mitny.tistory.com/208
+
 ### DB 작업
 https://bebhionn.tistory.com/8?category=239054  
 https://m.blog.naver.com/bgpoilkj/220751401209

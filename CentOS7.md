@@ -1,3 +1,6 @@
+### Mac install
+https://realapril.tistory.com/18
+
 ### GRUB 기본부팅
 https://ghostweb.tistory.com/826
 

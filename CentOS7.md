@@ -216,5 +216,8 @@ https://dev-coco.tistory.com/68
 ### Spring Boot Project 백그라운드 배포
 https://whispertome.tistory.com/3
 
+### quota
+https://ansan-survivor.tistory.com/517
+
 ### quota xfs -> ext4
 https://this1.tistory.com/entry/centos7-%ED%8C%8C%ED%8B%B0%EC%85%98-%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B3%80%EA%B2%BD

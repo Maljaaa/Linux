@@ -224,3 +224,7 @@ https://ansan-survivor.tistory.com/517
 
 ### quota xfs -> ext4
 https://this1.tistory.com/entry/centos7-%ED%8C%8C%ED%8B%B0%EC%85%98-%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B3%80%EA%B2%BD
+
+### Nmap 사용법
+https://snowyan23.tistory.com/6
+https://hj-kwon.tistory.com/29

@@ -228,3 +228,6 @@ https://this1.tistory.com/entry/centos7-%ED%8C%8C%ED%8B%B0%EC%85%98-%ED%8C%8C%EC
 ### Nmap 사용법
 https://snowyan23.tistory.com/6
 https://hj-kwon.tistory.com/29
+
+### Oracle DB
+https://xxsiyoung.tistory.com/3

@@ -231,3 +231,15 @@ https://hj-kwon.tistory.com/29
 
 ### Oracle DB
 https://xxsiyoung.tistory.com/3
+
+### 정보
+insert into hs(num, name, k_name, pw, email, create_time)
+values(2, 'sounder', '이세희', 'wjsansrk', 'sounder@jj.ac.kr', CURRENT_TIMESTAMP),
+(3, 'tomber', '신승민', 'wjsansrk', 'tomber@jj.ac.kr', CURRENT_TIMESTAMP),
+(4, 'none', '김민정', 'wjsansrk', 'none@jj.ac.kr', CURRENT_TIMESTAMP),
+(5, 'khan', '진의정', 'wjsansrk', 'khan@jj.ac.kr', CURRENT_TIMESTAMP),
+(6, 'none2', '배진석', 'wjsansrk', 'none2@jj.ac.kr', CURRENT_TIMESTAMP),
+(7, 'anthony', '권오서', 'wjsansrk', 'anthony@jj.ac.kr', CURRENT_TIMESTAMP),
+(8, 'reeker', '최아영', 'wjsansrk', 'reeker@jj.ac.kr', CURRENT_TIMESTAMP),
+(9, 'eigher', '이기정', 'wjsansrk', 'eigher@jj.ac.kr', CURRENT_TIMESTAMP),
+(10, 'daver', '이승태', 'wjsansrk', 'daver@jj.ac.kr', CURRENT_TIMESTAMP);

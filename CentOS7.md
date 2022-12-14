@@ -259,3 +259,6 @@ values(1, 'slider', '전승진', 'wjsansrk', 'slider@jj.ac.kr', now()),
 
 ### Cubrid
 https://zetawiki.com/wiki/CentOS7_%ED%81%90%EB%B8%8C%EB%A6%AC%EB%93%9C_%EC%84%A4%EC%B9%98
+
+### mssql
+https://ansan-survivor.tistory.com/1202

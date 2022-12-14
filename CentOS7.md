@@ -256,3 +256,6 @@ values(1, 'slider', '전승진', 'wjsansrk', 'slider@jj.ac.kr', now()),
 (8, 'reeker', '최아영', 'wjsansrk', 'reeker@jj.ac.kr', now()),
 (9, 'eigher', '이기정', 'wjsansrk', 'eigher@jj.ac.kr', now()),
 (10, 'daver', '이승태', 'wjsansrk', 'daver@jj.ac.kr', now());
+
+### Cubrid
+https://zetawiki.com/wiki/CentOS7_%ED%81%90%EB%B8%8C%EB%A6%AC%EB%93%9C_%EC%84%A4%EC%B9%98

@@ -9,3 +9,6 @@ https://archijude.tistory.com/392
 
 ## MariaDB 외부접속 
 https://conkjh032.tistory.com/28
+
+## 스프링 시큐리티 기본페이지 이용방법
+https://samtao.tistory.com/71

@@ -6,3 +6,6 @@ https://blogger.pe.kr/885
 
 ## port 확인
 https://archijude.tistory.com/392
+
+## MariaDB 외부접속 
+https://conkjh032.tistory.com/28
